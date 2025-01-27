@@ -1,5 +1,5 @@
 class Solution { 
-public:
+public: 
     double myPow(double x, long long int n) {
         double ans=1; //creating the answer variable
         if(n<0){
