@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: 
     int maxSubArray(vector<int>& nums) {
     int maxSum = INT_MIN; //Kadane's Algorithm
     int currSum = 0;
