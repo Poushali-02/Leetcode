@@ -1,5 +1,5 @@
 class Solution { 
-public:
+public: 
     int findDuplicate(vector<int>& nums){
     for(int num:nums){ //for each loop
         int idx = abs(num);
